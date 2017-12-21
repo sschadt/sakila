@@ -1,1 +1,1 @@
-# sakila
+# Sakila database SQL exercises
